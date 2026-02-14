@@ -16,9 +16,9 @@ The app is designed to be simple, lightweight, and easy to use.
 
 ---
 
-## 🚀 How to Use the App (Using Apk file is coming soon)
+## 🚀 How to Use the App
 
-1. Install the APK file on your Android device.
+1. Install the APK (./ToDoList.apk)) file on your Android device.
 2. Open the app.
 3. Enter a task in the input field.
 4. Tap the **Add** button.
